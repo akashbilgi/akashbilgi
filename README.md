@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🎣 My specialty is DevOps and Im moving towards pure development
 - ❤️ I love coding in Python, Java and Scriting Automations Tools
 - ✋ Im Actively seeking Summer Intership for 2023
+- 📫 Reach me @ akash.bilgi@gmail.com
