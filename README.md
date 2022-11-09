@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 Im currently a MS - Computer Engineering student @ University of California, Riverside 
 - 💵 I was a Robert Bosch Employee - Senior Software Engineer [2018-2022]
-- 🎣 My specialty is DevOps
+- 🎣 My specialty is DevOps and Im moving towards pure development
 - ❤️ I love coding in Python, Java and Scriting Automations Tools
 - ✋ Im Actively seeking Summer Intership for 2023
