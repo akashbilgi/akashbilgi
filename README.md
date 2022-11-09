@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Im currently a MS - Computer Engineering student @ University of California, Riverside 
+- 🌱 Im currently a MS - Computer Engineering student @ University of California, Riverside (Class of 2024)
 - 💵 I was a Robert Bosch Employee - Senior Software Engineer [2018-2022]
 - 🎣 My specialty is DevOps and Im moving towards pure development
 - ❤️ I love coding in Python, Java and Scriting Automations Tools
