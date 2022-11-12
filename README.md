@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🌱 Im currently a MS - Computer Engineering student @ University of California, Riverside (Class of 2024)
 - 💵 Ex-Robert Bosch Employee -> Software Engineer [2018-2020] -> Senior Software Engineer [2020-2022]
 - 🎣 My specialty is DevOps and Im moving towards pure development
-- ❤️ I love coding in Python, Java and Scriting Automations Tools
+- ❤️ I love coding in Python, Java and Scripting Automations Tools
 - ✋ Im Actively seeking Summer Intership for 2023
 - 📫 Reach me @ akash.bilgi@gmail.com
