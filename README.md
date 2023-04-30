@@ -1,22 +1,19 @@
-### Hi there, Im Akash Bilgi👋
+# Akash Bilgi
 
-<!--
-**akashbilgi/akashbilgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently pursuing my Master of Science degree in Computer Engineering at the University of California, Riverside (Class of 2024). Previously, I worked as a Software Engineer and later as a Senior Software Engineer at Robert Bosch from 2018 to 2022. My specialty is in DevOps, and I am moving towards pure development. I have a strong passion for coding, especially in Python, Java, and scripting automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 Im currently a MS - Computer Engineering student @ University of California, Riverside (Class of 2024)
-- 💵 Ex-Robert Bosch Employee -> Software Engineer [2018-2020] -> Senior Software Engineer [2020-2022]
-- 🎣 My specialty is DevOps and Im moving towards pure development
-- ❤️ I love coding in Python, Java and Scripting Automations Tools
-- ✋ Im Actively seeking Summer Intership for 2023
-- 📫 Reach me @ akash.bilgi@gmail.com
+## Skills
+
+- Programming/Scripting: Python, Java, C/C++, Shell, Batch, Groovy, AutoHotKey, SQL, Js
+- Technologies: GIT, Jenkins, GitHub Actions, Docker, Bitbucket, JIRA, RTC CCM, RTC SCM, SVN(Subversion), Make, SonarQube, Helix QAC, Maven
+- Miscellaneous: Automation, Code Quality Analysis, SDLC, Scrum, Agile methodologies, Problem‑Solving, Team collaboration, Security and compliance, Database administration, ChatGPT, Googling
+
+## Contact
+
+- 📫 Email: akashsbilgi@gmail.com
+- 👔 [LinkedIn](https://www.linkedin.com/in/akashbilgi/)
+- ✋ Actively seeking Summer Internship for 2023
+
+Thank you for visiting my profile!
