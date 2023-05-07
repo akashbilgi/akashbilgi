@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently pursuing my Master of Science degree in Computer Engineering at the University of California, Riverside (Class of 2024). Previously, I worked as a Software Engineer and later as a Senior Software Engineer at Robert Bosch from 2018 to 2022. My specialty is in DevOps, and I am moving towards pure development. I have a strong passion for coding, especially in Python, Java, and scripting automation tools.
+I am currently pursuing my Master of Science degree in Computer Engineering at the University of California, Riverside (Class of 2024). Previously, I worked as a Software Engineer and later as a Senior Software Engineer at Robert Bosch from 2018 to 2022. My specialty is in DevOps and Programming \. I have a strong passion for Problem solving, coding, especially in Python, Java, and scripting automation tools.
 
 ## Skills
 
