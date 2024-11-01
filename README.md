@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am currently pursuing my Master of Science degree in Computer Engineering at the University of California, Riverside (Class of 2024). Previously, I worked as a Software Engineer and later as a Senior Software Engineer at Robert Bosch from 2018 to 2022. My specialty is in DevOps and Programming \. I have a strong passion for Problem solving, coding, especially in Python, Java, and scripting automation tools.
+Im working as Full Stack Dev with DataGenix( Senior Software Developer).
+I have a Master's in CS from UC Riveside
+Previously, I worked as a Software Engineer and later as a Senior Software Engineer at Robert Bosch from 2018 to 2022. My specialty is in DevOps and Programming \. I have a strong passion for Problem solving, coding, especially in Python, Java, and scripting automation tools.
 
 ## Skills
 
@@ -14,6 +16,5 @@ I am currently pursuing my Master of Science degree in Computer Engineering at t
 
 - 📫 Email: akashsbilgi@gmail.com
 - 👔 [LinkedIn](https://www.linkedin.com/in/akashbilgi/)
-- ✋ Actively seeking Summer Internship for 2023
 
 Thank you for visiting my profile!
